@@ -9,7 +9,7 @@ For this purpose, my dear mom has designed a variety of unique🌈colorful skins
 
 🌭They say this way, many people will probably adore me, allowing more of their friends to get to know me and have me. Each and every 'me' is truly one-of-a-kind, carrying love and happiness. I may not entirely understand this "NFT" thing😴, but I do realize I've become a special presence, as if stepping into a magical world. What I truly sense is the boundless affection from these kind adults. While I can't express it in words, I feel it in my heart, responding with smiles and wagging my tail, conveying my most genuine emotions to them.
 
-<img src="https://github.com/wongtadev/wongta-nft/blob/main/images%20demo/wongta.gif)" alt="Awesome wongta" width="300" height="300">
+<img src="https://github.com/wongtadev/wongta-nft/blob/main/images%20demo/wongta.gif" alt="Awesome wongta" width="300" height="300">
 
 Did you feel the inner world within me? 🤠Hoho, you've been fooled, and now I'm about to show off. 
 
