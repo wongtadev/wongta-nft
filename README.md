@@ -59,3 +59,7 @@ Wongta handles consists of 7 features of metadata, comprising a total of 258 dis
 | Background | 11       |
 
 🎨 Total amount:  **258**
+
+# License
+
+The repo (i.e. all elements of the directory) is licensed under the  [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
