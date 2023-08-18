@@ -33,3 +33,29 @@ The Wongta NFT collection is deployed on the Polygon Network, comprised of 7 dis
 In this innovative digital social ecosystem, Wongta holders are not mere passive observers; they actively partake in art creation and social interactions. Blockchain technology grants every holder greater agency, enabling them to decide how their artwork is presented and how they engage with other community members. Moreover, through owning Wongta NFTs, users gain on-chain recognition and rewards, further elevating their standing within this digital social network.
 
 Wongta pioneers a fresh mode of participation and creation, transcending conventional art and social media boundaries. By empowering users with increased control and reward opportunities, Wongta is forging a dynamic and diverse ecosystem that paves the way for the future of digital art and innovative storytelling.
+
+## Rarity Design
+
+Wongta has 7 features, including `Headwear` `Glasses` `Accessory` `Profession` `Body` `Cloth` and `Background`. Generated through a random combination algorithm, Each unique NFT is generated from distinct components, and you can check the rarity details here.
+
+## Metadata
+
+Wongta handles consists of 7 features of metadata, comprising a total of 258 distinct components.
+
+#️⃣ 7 features
+
+👏 258 parts
+
+😃 Web3 Social Account | Entertainment | Innovation | Openness
+
+| Attributes | Quantity |
+| ---------- | -------- |
+| Headwear   | 45       |
+| Glasses    | 30       |
+| Accessory  | 12       |
+| Profession | 70       |
+| Body       | 45       |
+| Cloth      | 45       |
+| Background | 11       |
+
+🎨 Total amount:  **258**
