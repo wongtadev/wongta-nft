@@ -17,7 +17,7 @@ Did you feel the inner world within me? 🤠Hoho, you've been fooled, and now I'
 
 ## 🌞 Love family!
 
-<img src="https://github.com/wongtadev/wongta-nft/blob/main/images%20demo/family.png" alt="Awesome wongta">
+<img src="https://github.com/wongtadev/wongta-nft/blob/main/images%20demo/family.png" alt="Awesome wongta" width="600" height="464">
 
 > Wongta - An exquisite NFT collection meticulously crafted on the Polygon network for the realm of Web3 social interactions.
 
