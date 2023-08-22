@@ -1,5 +1,6 @@
 [![Static Badge](https://img.shields.io/badge/Website-wongta-brightgreen?link=https%3A%2F%2Fwww.wongta.com%2F)
-](https://www.wongta.com/) [![License](https://img.shields.io/badge/License-MIT-critical)](LICENSE)
+](https://www.wongta.com/) [![Static Badge](https://img.shields.io/badge/Polygonscan-8A2BE2?style=flat&logo=Polygon)
+](https://polygonscan.com/address/0xA8CA29d3d87A13A5557c8c127949a84DFB078855) [![License](https://img.shields.io/badge/License-MIT-critical)](LICENSE)
 
 # 🐶 Oh Ye Thats me - Wongta
 
