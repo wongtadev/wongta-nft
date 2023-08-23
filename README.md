@@ -27,7 +27,7 @@ Did you feel the inner world within me? 🤠Hoho, you've been fooled, and now I'
 - ⛏Public mint with whitelist
 - 🍭[Airdrop](https://imdodo.com/s/216262?inv=8XP3R)(Follow our community event)
 
-🖼️My stunning photos (source files) are stored in the decentralized [IPFS](https://ipfs.io/ipfs/---) network.
+🖼️My stunning photos (source files) are stored in the decentralized [IPFS](https://ipfs.io/ipfs/QmbpCXyp2dDnXLXnfJo6QXqMY7RfXfMedUj3QDxivvYQFM/) network.
 
 The Wongta NFT collection is deployed on the Polygon Network, comprised of 7 distinct metadata components. Each "Wongta Handles" holder has the ability to create a unique NFT account [EIP-6551](https://eips.ethereum.org/EIPS/eip-6551), enabling them to earn on-chain recognition and encrypted rewards, while also possessing their own Web3 social graph. Leveraging the characteristics of blockchain technology, it offers users enhanced control and reward opportunities, allowing holders to establish a personal digital identity within the digital realm. They can engage in social interactions, connecting with other holders to shape their distinctive presence and reputation.
 
