@@ -81,7 +81,7 @@ Mature gentleman with a touch of gray in his beard, seeking a canine companion t
 
 1-2-1, 1-2-1, charging ahead into the realm of technology, the single boy who forgot to seek a companion...
 
-### jupiteriana | Core-dev
+### Jupiteriana | Core-dev
 
 <img src=https://github.com/wongtadev/wongta-nft/blob/main/images%20demo/avatar/jupiteriana-avatar.png width=15% />
 
