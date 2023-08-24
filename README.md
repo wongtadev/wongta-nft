@@ -87,7 +87,7 @@ Mature gentleman with a touch of gray in his beard, seeking a canine companion t
 
 A fashion-savvy explosive talent in the world of the 2000s, with an unruly hairstyle. I just want to rock a bit before my hair completely falls out...
 
-### LICHI SISTER | Lead designer
+### Lichi Sister | Lead designer
 
 <img src=https://github.com/wongtadev/wongta-nft/blob/main/images%20demo/avatar/lichi-sister-avatar.png width=15% />
 
