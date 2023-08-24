@@ -61,6 +61,20 @@ Wongta handles consists of 7 features of metadata, comprising a total of 258 dis
 
 🎨 Total amount:  **258**
 
+## Team
+
+### Lewis | Founder
+
+<img src=https://github.com/wongtadev/wongta-nft/blob/main/images%20demo/avatar/lewis-avatar.png width=15% />
+
+Tag: Free-spirited Cancerian lad, currently soaring to new heights, in need of a gentle landing...
+
+### Seven | Co-founder
+
+<img src=https://github.com/wongtadev/wongta-nft/blob/main/images%20demo/avatar/lewis-avatar.png width=15% />
+
+Tag: Mature gentleman with a touch of gray in his beard, seeking a canine companion to keep his precious little princess company...
+
 # License
 
 The repo (i.e. all elements of the directory) is licensed under the [MIT](https://github.com/wongtadev/wongta-nft/blob/main/LICENSE).
