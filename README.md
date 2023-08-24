@@ -26,6 +26,7 @@ Did you feel the inner world within me? 🤠Hoho, you've been fooled, and now I'
 
 - ⛏Public mint with whitelist
 - 🍭[Airdrop](https://imdodo.com/s/216262?inv=8XP3R)(Follow our community event)
+- 🍕Community Grants (Coming soon)
 
 🖼️My stunning photos (source files) are stored in the decentralized [IPFS](https://ipfs.io/ipfs/QmbpCXyp2dDnXLXnfJo6QXqMY7RfXfMedUj3QDxivvYQFM/) network.
 
