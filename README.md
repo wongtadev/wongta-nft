@@ -71,7 +71,7 @@ Tag: Free-spirited Cancerian lad, currently soaring to new heights, in need of a
 
 ### Seven | Co-founder
 
-<img src=https://github.com/wongtadev/wongta-nft/blob/main/images%20demo/avatar/lewis-avatar.png width=15% />
+<img src=https://github.com/wongtadev/wongta-nft/blob/main/images%20demo/avatar/seven-avatar.png width=15% />
 
 Tag: Mature gentleman with a touch of gray in his beard, seeking a canine companion to keep his precious little princess company...
 
