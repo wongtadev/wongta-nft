@@ -22,7 +22,7 @@ Did you feel the inner world within me? 🤠Hoho, you've been fooled, and now I'
 
 > Wongta - An exquisite NFT collection meticulously crafted on the Polygon network for the realm of Web3 social interactions.
 
-## How to get Wongta Handle(NFT)?
+## How to get a Wongta Handle(NFT)?
 
 - ⛏Public mint with whitelist
 - 🍭[Airdrop](https://imdodo.com/s/216262?inv=8XP3R)(Follow our community event)
