@@ -68,31 +68,31 @@ Wongta handles consists of 7 features of metadata, comprising a total of 258 dis
 
 <img src=https://github.com/wongtadev/wongta-nft/blob/main/images%20demo/avatar/lewis-avatar.png width=15% />
 
-Free-spirited Cancerian lad, currently soaring to new heights, in need of a gentle landing...
+Free-spirited Cancerian lad, currently soaring to new heights, in need of a gentle landing.
 
 ### Seven | Co-founder
 
 <img src=https://github.com/wongtadev/wongta-nft/blob/main/images%20demo/avatar/seven-avatar.png width=15% />
 
-Mature gentleman with a touch of gray in his beard, seeking a canine companion to keep his precious little princess company...
+Seeks a furry friend for his beloved princess.
 
 ### Metas | Core-dev
 
 <img src=https://github.com/wongtadev/wongta-nft/blob/main/images%20demo/avatar/metas-avatar.png width=15% />
 
-1-2-1, 1-2-1, charging ahead into the realm of technology, the single boy who forgot to seek a companion...
+1-2-1, 1-2-1, charging ahead into the realm of technology, the single boy who forgot to seek a companion.
 
 ### Jupiteriana | Core-dev
 
 <img src=https://github.com/wongtadev/wongta-nft/blob/main/images%20demo/avatar/jupiteriana-avatar.png width=15% />
 
-A fashion-savvy explosive talent in the world of the 2000s, with an unruly hairstyle. I just want to rock a bit before my hair completely falls out...
+A fashion-savvy explosive talent in the world of the 2000s, with an unruly hairstyle. I just want to rock a bit before my hair completely falls out.
 
 ### Lichi Sister | Lead designer
 
 <img src=https://github.com/wongtadev/wongta-nft/blob/main/images%20demo/avatar/lichi-sister-avatar.png width=15% />
 
-The "ordinary passerby" genius designer on Xiaohongshu, she simply wants to maintain her cuteness...
+The "ordinary passerby" genius designer, she simply wants to maintain her cuteness.
 
 # License
 
